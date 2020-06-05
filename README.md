@@ -6,8 +6,6 @@ First install requirements
 
 And start converting images
 
-`python app.py <filename> (-f)`
-
 `python textixel.py [--show] [--fontsize FONTSIZE] <input image file> <output image file>`
 
 Examples:
